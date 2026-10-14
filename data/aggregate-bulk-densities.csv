@@ -1,0 +1,52 @@
+id,material,category,lb_per_ft3,lb_per_yd3,us_tons_per_yd3,kg_per_m3,tonnes_per_m3,sq_ft_per_us_ton_at_2in,sq_ft_per_us_ton_at_3in,sq_ft_per_us_ton_at_4in,sq_ft_per_us_ton_at_6in
+gravel-general,"Gravel, 3/4-1 in (general)",gravel,105,2835,1.42,1682,1.68,114,76,57,38
+pea-gravel,Pea gravel (3/8 in),gravel,96,2592,1.3,1538,1.54,125,83,63,42
+crushed-stone-57,"Crushed stone #57 (3/4 in, clean)",crushed-stone,105,2835,1.42,1682,1.68,114,76,57,38
+crushed-stone-3-4-in,3/4 in crushed stone (clean),crushed-stone,105,2835,1.42,1682,1.68,114,76,57,38
+crushed-stone-no8,3/8 in crushed stone (#8),crushed-stone,100,2700,1.35,1602,1.6,120,80,60,40
+crushed-stone-no3-no4,2-3 in crushed stone (#3 / #4),crushed-stone,100,2700,1.35,1602,1.6,120,80,60,40
+crusher-run,Crusher run / #411 / ABC (dense-graded),crushed-stone,125,3375,1.69,2002,2.0,96,64,48,32
+three-quarter-minus,3/4 in minus crushed stone,base,115,3105,1.55,1842,1.84,104,70,52,35
+stone-dust,Stone dust / screenings,crushed-stone,100,2700,1.35,1602,1.6,120,80,60,40
+limestone-crushed,"Limestone, crushed",crushed-stone,100,2700,1.35,1602,1.6,120,80,60,40
+granite-crushed,"Granite, crushed",crushed-stone,105,2835,1.42,1682,1.68,114,76,57,38
+recycled-concrete,Recycled crushed concrete,crushed-stone,95,2565,1.28,1522,1.52,126,84,63,42
+quarter-inch-chip,1/4 in chip (open-graded bedding),base,100,2700,1.35,1602,1.6,120,80,60,40
+river-rock-1-3,"River rock, 1-3 in",river-rock,100,2700,1.35,1602,1.6,120,80,60,40
+river-rock-2,"River rock, 2 in (medium)",river-rock,100,2700,1.35,1602,1.6,120,80,60,40
+river-rock-3-5,"River rock, 3-5 in",river-rock,95,2565,1.28,1522,1.52,126,84,63,42
+river-rock-5-8,"River rock, 5-8 in (large)",river-rock,90,2430,1.22,1442,1.44,133,89,67,44
+river-pebbles,"River pebbles, 3/8-3/4 in",river-rock,105,2835,1.42,1682,1.68,114,76,57,38
+mexican-beach-pebbles,Mexican beach pebbles,river-rock,105,2835,1.42,1682,1.68,114,76,57,38
+decorative-rock,Decorative / landscape rock,landscape-rock,100,2700,1.35,1602,1.6,120,80,60,40
+decorative-chips,Decorative gravel / chips (3/4 in),landscape-rock,100,2700,1.35,1602,1.6,120,80,60,40
+lava-rock,Lava rock,landscape-rock,50,1350,0.68,801,0.8,240,160,120,80
+marble-chips,Marble chips,landscape-rock,95,2565,1.28,1522,1.52,126,84,63,42
+slate-chips,Slate chips,landscape-rock,90,2430,1.22,1442,1.44,133,89,67,44
+decomposed-granite,Decomposed granite (DG),landscape-rock,105,2835,1.42,1682,1.68,114,76,57,38
+rip-rap-placed,"Rip rap, placed (typical)",rip-rap,110,2970,1.49,1762,1.76,109,73,55,36
+rip-rap-small,"Small rip rap, 3-6 in (Class A / 1)",rip-rap,115,3105,1.55,1842,1.84,104,70,52,35
+rip-rap-medium,"Medium rip rap, 6-12 in (Class B / 2)",rip-rap,110,2970,1.49,1762,1.76,109,73,55,36
+rip-rap-large,"Large rip rap, 12-24 in (Class C / 3)",rip-rap,105,2835,1.42,1682,1.68,114,76,57,38
+gabion-stone,"Gabion stone, 4-8 in",rip-rap,105,2835,1.42,1682,1.68,114,76,57,38
+bedding-stone,Bedding stone / filter layer,rip-rap,105,2835,1.42,1682,1.68,114,76,57,38
+sand-dry,"Sand, dry (general)",sand,100,2700,1.35,1602,1.6,120,80,60,40
+masonry-sand,Masonry / mortar sand,sand,100,2700,1.35,1602,1.6,120,80,60,40
+sharp-sand,Concrete / sharp sand,sand,105,2835,1.42,1682,1.68,114,76,57,38
+paver-sand,Paver / leveling sand,sand,100,2700,1.35,1602,1.6,120,80,60,40
+fill-sand,Fill sand,sand,105,2835,1.42,1682,1.68,114,76,57,38
+play-sand,Play sand,sand,95,2565,1.28,1522,1.52,126,84,63,42
+sand-wet,"Sand, wet",sand,120,3240,1.62,1922,1.92,100,67,50,33
+sand-wet-packed,"Sand, wet packed",sand,130,3510,1.75,2082,2.08,92,62,46,31
+topsoil-screened,Screened topsoil (moist),soil,90,2430,1.22,1442,1.44,133,89,67,44
+topsoil-dry,"Topsoil, dry / loose",soil,78,2106,1.05,1249,1.25,154,103,77,51
+topsoil-wet,"Topsoil, wet",soil,105,2835,1.42,1682,1.68,114,76,57,38
+garden-mix,Garden mix / blended soil,soil,80,2160,1.08,1281,1.28,150,100,75,50
+compost,Compost,soil,55,1485,0.74,881,0.88,218,145,109,73
+black-dirt,Black dirt,soil,85,2295,1.15,1362,1.36,141,94,71,47
+fill-dirt-loose,Fill dirt (loose),fill,100,2700,1.35,1602,1.6,120,80,60,40
+fill-dirt-compacted,Fill dirt (compacted),fill,115,3105,1.55,1842,1.84,104,70,52,35
+clay-fill,Clay / clay fill,fill,110,2970,1.49,1762,1.76,109,73,55,36
+sandy-fill,Sandy fill,fill,105,2835,1.42,1682,1.68,114,76,57,38
+excavated-earth-dry,Excavated earth (dry),fill,95,2565,1.28,1522,1.52,126,84,63,42
+excavated-earth-wet,Excavated earth (wet),fill,110,2970,1.49,1762,1.76,109,73,55,36

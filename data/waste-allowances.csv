@@ -1,0 +1,9 @@
+material_or_use,default_allowance_percent,reason
+"Clean gravel, pea gravel, river rock, decorative rock",5,"Spillage, uneven subgrade, edge losses"
+Crushed stone (general),10,Light compaction when raked and tamped
+Dense-graded base (crusher run) under pavers,20,Volume loss when plate-compacted in lifts
+Bedding sand,10,Screeding waste
+Sand (general),5,Spillage
+Topsoil,10,Settling after watering
+Fill dirt,15,Compaction when placed and rolled (15-25% typical)
+Rip rap,10,"Rough placement, overlaps, toe trenches"
