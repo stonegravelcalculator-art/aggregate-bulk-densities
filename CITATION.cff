@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "Aggregate Bulk Densities"
+type: dataset
+authors:
+  - name: "Stone & Gravel Calculator"
+    website: "https://stonegravelcalculator.com/"
+license: CC-BY-4.0
+url: "https://stonegravelcalculator.com/methodology/"
+abstract: "Typical bulk densities for 51 landscaping and construction aggregates (gravel, crushed stone, river rock, rip rap, sand, topsoil, fill), in imperial and metric units, with coverage per ton."
+keywords:
+  - gravel
+  - aggregate
+  - bulk density
+  - construction materials
+  - landscaping
+date-released: "2026-10-09"
